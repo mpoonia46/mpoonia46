@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Hotel Management System</title>
+    <link rel="stylesheet" href="stylesheet.css"
+
+</head>
+
+<body>
+        <!---------navbar--------->
+           <div class="navbar">
+           <div class="logo"><h1>Hotel</h1></div>
+           <div class="nav-menu">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Staff</a></li>
+                <li><a href="#">Branches</a></li>
+                <li><a href="#">Contact</a></li>
+           </div>
+        </div>
+    <!---------mainhead--------->
+
+    <div class="main-head">
+
+        <div class="banner-text">
+            <h1><span>Hotel Management System</span></h1>
+            <h2>Our <span>Hotel</span>is best in the <span>PUNJAB</span></h2>
+            <h3>We have <span>5 star</span> rating on <span>Book-hotel-online</span></h3>
+        </div>
+        <div class="btn">
+            <button>Book Room</button>
+        </div>
+    </div>
+
+
+    <!---------second-head--------->
+
+    <div class="container">
+        <div class="box box1">
+            <h1>Our services</h1>
+            <p>Free wifi</br>Courier services</br>Doctor on call</br>Dry cleaning</br>Flower arrangement</br>Mail services</br>Ironing service</br> </p>
+
+            <div class="btnl">
+                <button>Check</button>
+            </div>
+        </div>
+
+        <div class="box box2">
+            <h1>Hotel Rooms</h1>
+            <p>AC rooms</br>Non-AC rooms</br>Home Stay</br>3 star rooms</br>5 star rooms</p>
+        <div class="btn2">
+            <button>Book</button>
+        </div>
+     </div>
+
+
+     <div class="box box3">
+        <h1>Additional Services</h1>
+        <p>Swimming Pool</br>Playgrounds</br>Club</br>Beer Bar</br>GYM</br>Saloon</br>Car rental</p>
+
+        <div class="btn3">
+            <button>Check</button>
+        </div>
+     </div>
+ </div>
+
+ <!--------Third Head--------->
+ <div class="container-2">
+    <div class="content">
+     <h1>Happy Customer</h1>
+     <p>Customer happines is the level of loyality and satisfaction that our customers experience after engaging with our team.</br>Happy customers are loyal customers.Not only is it important for you to provide stellar service,but awesome products as well.</p>
+    </div>
+ </div>
+
+<!------Fourth-head------>
+<div class="contact-box">
+    <h2>Book Appointment</h2>
+    <div class=""form">
+    
+    <input type="text" placeholder="Name">
+    <br>
+    <input type="text" placeholder="E-mail">
+    <br>
+    <input type="text" placeholder="Mobile No.">
+    <br>
+    <input type="text" placeholder="No of persons"
+    </div>
+    <br>
+    <button>Submit</button>
+</div>
+
+<!---------Footer-------->
+
+    <div class=""footer">
+        <div class="div_1 div1">
+            <h3>Links</h3>
+
+            <li><a href="#">Hotel</a></li>
+            <li><a href="#">Motel</a></li>
+            <li><a href="#">Restaurant</a></li>
+            <li><a href="#">Halls</a></li>
+
+
+
+        </div>
+
+
+
+        <div class="div_1 div3">
+            <h3>Services</h3>
+            <li><a href="">Swimmimg pool</a></li>
+            <li><a href="">GYM</a></li>
+            <li><a href="">Parking area</a></li>
+            <li><a href="">Disco</a></li>
+        </div>
+
+
+
+        
+    </div>
+    
+
+
+
+
+
+
+
+
+</body>
+</html>
